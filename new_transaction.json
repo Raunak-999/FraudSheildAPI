@@ -1,0 +1,13 @@
+{
+    "transaction_id": "ANON_31",
+    "transaction_date": "2024-12-11 00:00:48",
+    "transaction_amount": 1000.0,
+    "transaction_channel": "M",
+    "transaction_payment_mode": 10,
+    "payment_gateway_bank": 6,
+    "payer_browser": 509,
+    "payer_email": "b8ca844b02909e578dab773d96b5d79b1042a40445addfc68a4fbe4dbe8ea24f",
+    "payer_mobile": "XXXXX566.0",
+    "payee_id": "ANON_210449",
+    "payee_ip": "11ef3fd1fc859655d085fd4268aa591b95843715f7999fc5d337930c5ba05231"
+}

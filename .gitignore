@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual Environment
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Model files
+*.pkl
+
+# Temporary files
+check_columns.py
+check_data.py
+count_predictions.py
+data/
+feature_names.txt
+process_test_data.py
+verify_submission.py
+fraud_detection.py
+fraud_detection_submission.csv
+train_model.py
